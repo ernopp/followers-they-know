@@ -2,7 +2,7 @@
 
 Twitterer x just followed you, user y. 
 
-What is the list z of people that they saw in the little 'followers you know' box when they visited your page, which was such an exceptional list that they the big shiny blue button?
+What is the list z of people that they saw in the little 'followers you know' box when they visited your page, which was such an exceptional list that they hit the big shiny blue button?
 
 Find out by running:
 
