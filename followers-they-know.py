@@ -20,10 +20,14 @@ import pickle
 
 users = api.GetFriends()
 
+# users = {1,2,3}
+
 output = open('data.pkl', 'wb')
 pickle.dump(users, output)
 
 output.close()
+
+
 
 #user= api.GetUser(screen_name="gabropp")
 
